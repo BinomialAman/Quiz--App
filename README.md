@@ -68,13 +68,9 @@ http://localhost:5173
 
 📌 Future Improvements
 
-Score calculation
-
 Result summary page
 
 Timer for questions
-
-Correct/incorrect answer highlighting
 
 Backend integration
 
